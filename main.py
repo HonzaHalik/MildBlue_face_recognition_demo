@@ -1,10 +1,10 @@
+
 from sklearn.metrics.pairwise import pairwise_distances
 from tensorflow.python.platform import gfile
 import tensorflow as tf
 import numpy as np
 import detect_and_align
 import argparse
-import easygui
 import time
 import cv2
 import os
